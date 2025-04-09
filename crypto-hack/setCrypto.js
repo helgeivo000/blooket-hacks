@@ -17,7 +17,8 @@
         
                 alert('Crypto added!');
             };
-})();
+})();20,000
+
 
 
 function footer() {
